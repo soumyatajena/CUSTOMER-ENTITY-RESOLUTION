@@ -26,8 +26,11 @@ Customer entity resolution involves accurately identifying and linking data reco
 **II. Recommendation Systems:**
 
 Recommendation systems use algorithms and data analysis techniques to provide personalized recommendations to customers for products or services they are likely to be interested in. These systems analyze historical customer data, such as browsing behavior, purchase history, and preferences, to make relevant and timely recommendations. Recommendation systems can help businesses improve customer engagement, increase sales, and enhance customer satisfaction by providing personalized and convenient shopping experiences.
+
 E.g., Collaborative filtering is a technique used in recommendation systems to provide personalized recommendations based on user behavior and item preferences.
+
 • User-based collaborative filtering relies on users with similar past behavior or preferences.
+
 • Item-based collaborative filtering relies on items that are similar in terms of user interactions.
 
 **III. Customer Segmentation:**
@@ -37,4 +40,5 @@ Customer segmentation involves dividing customers into distinct groups based on 
 **Two common types of customer segmentation:**
 
 • Based on Behavior: This involves grouping customers based on past behaviors, such as purchasing behavior, browsing behavior, engagement with marketing campaigns, loyalty program participation, and other relevant actions. By analyzing customer behavior, businesses can identify patterns and characteristics among customers to create segments for targeted marketing efforts. For example, customers who frequently purchase high-end products or engage with email campaigns may be grouped into a segment to receive personalized promotions or offers.
+
 • Based on Preferences: This involves grouping customers based on their stated preferences, interests, or demographic information such as age, gender, location, interests, hobbies, or other relevant preferences. By understanding customer preferences, businesses can create segments for targeted marketing messages, product recommendations, or offers. For example, customers who have expressed an interest in eco-friendly products or a specific type of cuisine may be grouped into a segment to receive relevant promotions or recommendations.
